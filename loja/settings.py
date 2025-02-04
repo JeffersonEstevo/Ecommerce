@@ -57,7 +57,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 
 
-    # TODO: Remover debug 
+    # TODO: Remover middleware
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
